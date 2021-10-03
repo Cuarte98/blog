@@ -3,10 +3,10 @@ module.exports = {
     title: `Franco Cuarterolo`,
     author: {
       name: `Franco Cuarterolo`,
-      summary: `Chapter Lead, React Developer. Desde Buenos Aires, Argentina`,
+      summary: `Chapter Lead & React Developer. Desde Buenos Aires, Argentina.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: ``,
+    siteUrl: `https://fcuarterolo.gatsbyjs.io`,
     social: {
       twitter: `cuarte4`,
     },
